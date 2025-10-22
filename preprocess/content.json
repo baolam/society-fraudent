@@ -1,0 +1,308 @@
+{
+  "NoiDungTinNhan": [
+    {
+      "Loai": "Tin nhắn làm quen / tạo sự tin tưởng",
+      "DacDiem": [
+        "Bắt đầu bằng lời chào, làm quen nhẹ nhàng, không gây nghi ngờ.",
+        "Người gửi tỏ ra thân thiện, đồng cảm hoặc cùng hoàn cảnh.",
+        "Có thể giả làm bạn học cũ, đồng hương, người cùng sở thích."
+      ],
+      "ChieuTro": [
+        "Kéo dài cuộc trò chuyện để tạo sự tin tưởng.",
+        "Sau vài ngày mới gửi link, rủ tham gia nhóm, hoặc gợi ý đầu tư."
+      ],
+      "ViDu": [
+        "Chào bạn, mình thấy bạn cũng tham gia nhóm XYZ, rất vui được làm quen. Mình cũng đang học về…"
+      ]
+    },
+    {
+      "Loai": "Tin nhắn kêu gọi bấm vào link",
+      "DacDiem": [
+        "Có đường link dẫn tới trang web lạ.",
+        "Nội dung giật gân, hứa hẹn lợi ích hoặc cảnh báo khẩn cấp.",
+        "Link rút gọn hoặc nhái tên miền chính thống."
+      ],
+      "ChieuTro": [
+        "Dẫn dụ người dùng bấm để đánh cắp tài khoản, cài mã độc hoặc lấy thông tin cá nhân."
+      ],
+      "ViDu": [
+        "Tài khoản của bạn sắp bị khóa, bấm vào đây để xác minh: http://fb-support-login.xyz…"
+      ]
+    },
+    {
+      "Loai": "Tin nhắn giả dạng người nổi tiếng / tổ chức",
+      "DacDiem": [
+        "Giả mạo fanpage ca sĩ, diễn viên hoặc tổ chức lớn.",
+        "Dùng logo, tên hiển thị gần giống chính chủ."
+      ],
+      "ChieuTro": [
+        "Dựa vào uy tín của nhân vật/tổ chức để tạo niềm tin.",
+        "Đưa thông tin khuyến mãi, trúng thưởng, quyên góp hoặc xác minh tài khoản."
+      ],
+      "ViDu": [
+        "Chúc mừng! Bạn đã trúng iPhone 15 từ chương trình của Shopee.",
+        "Ca sĩ XXX đang tặng 1.000 phần quà cho fan.",
+        "Công an TP.HCM mời anh/chị hợp tác điều tra.",
+        "Tòa án nhân dân gửi trát triệu tập, xem chi tiết tại: [link giả]."
+      ]
+    },
+    {
+      "Loai": "Tin nhắn liên quan đến tài chính / lừa đảo tiền",
+      "DacDiem": [
+        "Đề cập tới vay tiền, đầu tư, trúng thưởng, hỗ trợ tài chính.",
+        "Hứa hẹn lãi suất cao hoặc cho vay dễ dàng không cần thủ tục."
+      ],
+      "ChieuTro": [
+        "Lừa nạn nhân nạp phí hoặc chuyển khoản trước.",
+        "Kêu gọi đầu tư, cho xem bằng chứng lợi nhuận giả rồi chiếm đoạt."
+      ],
+      "ViDu": [
+        "Chỉ cần 1 triệu đầu tư, sau 7 ngày nhận 3 triệu.",
+        "Bộ tài chính hoàn trả thuế cho bạn, vui lòng cung cấp thông tin tài khoản.",
+        "Chính phủ hỗ trợ Covid-19, nhập thông tin ngân hàng tại đây để nhận 3.000.000 VNĐ.",
+        "Điện lực XXX thông báo hoàn tiền điện tháng 9, nhấn vào link để nhận."
+      ]
+    },
+    {
+      "Loai": "Tin nhắn spam quảng cáo",
+      "DacDiem": [
+        "Nội dung lặp lại, gửi hàng loạt, không nhắm đúng đối tượng.",
+        "Thường bán hàng online, khóa học, dịch vụ cho vay, làm bằng giả."
+      ],
+      "ChieuTro": [
+        "Không hẳn lừa đảo nhưng gây phiền toái, có thể trộn spam + scam."
+      ],
+      "ViDu": [
+        "Mua sim số đẹp giá rẻ, inbox ngay để được giảm 50%.",
+        "Khuyến mãi siêu rẻ! SIM 4G chỉ 49k.",
+        "Cho vay tín chấp, giải ngân 30 phút.",
+        "Mở bán đất nền giá chỉ từ 500 triệu/lô.",
+        "Đăng ký học tiếng Anh online giảm 50%.",
+        "Mỹ phẩm Hàn Quốc giảm giá 70%.",
+        "[link]"
+      ]
+    },
+    {
+      "Loai": "Tin nhắn lừa đảo tuyển dụng / việc làm",
+      "DacDiem": [
+        "Hứa lương cao bất thường, việc nhẹ, không cần bằng cấp.",
+        "Thông tin chung chung, không rõ công ty, địa chỉ.",
+        "Tuyển gấp, yêu cầu đóng phí hoặc ứng tiền trước."
+      ],
+      "ChieuTro": [
+        "Bắt ứng tiền mua đơn hàng ảo, phí mở tài khoản, hoặc đặt cọc đồng phục.",
+        "Giả mạo công ty lớn (Shopee, Tiki…) để lừa lấy tiền."
+      ],
+      "ViDu": [
+        "Tuyển cộng tác viên online, lương 800k/ngày.",
+        "Đóng 300k mua đơn hàng, hoàn + lãi 90k.",
+        "Shopee tuyển 200 CTV nhập dữ liệu.",
+        "Đóng 500k làm thẻ nhân viên để nhận việc."
+      ]
+    }
+  ],
+
+  "Nickname": [
+    {
+      "Loai": "Bắt chước người nổi tiếng / tổ chức",
+      "BieuHien": [
+        "Tên gần giống chính chủ, thay ký tự dễ nhầm (l/I).",
+        "Thêm logo hoặc ảnh đại diện giống trang chính thức.",
+        "Bio chứa từ 'official', 'verified', 'support', 'CSKH' nhưng không có tick xanh."
+      ],
+      "MucDich": [
+        "Lợi dụng uy tín để lừa đảo, mời tham gia giveaway hoặc quyên góp."
+      ],
+      "DauHieuNghiNgo": [
+        "Ít người theo dõi, nội dung sơ sài, copy từ tài khoản chính thức."
+      ]
+    },
+    {
+      "Loai": "Tên kèm số / ký tự lạ",
+      "BieuHien": [
+        "Thêm dãy số hoặc ký tự lạ: Shopee_2024, NguyenThanh12345.",
+        "Sử dụng ký hiệu Unicode giả chữ cái hoặc viết hoa-thường lộn xộn."
+      ],
+      "MucDich": [
+        "Giả mạo vì tên chính chủ đã tồn tại, gây khó phân biệt nhanh."
+      ],
+      "DauHieuNghiNgo": [
+        "Tên có nhiều số, ký tự bất thường, thiếu tự nhiên."
+      ]
+    },
+    {
+      "Loai": "Tên quá chung chung",
+      "BieuHien": [
+        "Tên mơ hồ: User123, Hỗ Trợ Khách Hàng, CSKH Ngân Hàng.",
+        "Không gắn danh tính thật, dùng avatar mặc định hoặc ảnh mạng."
+      ],
+      "MucDich": [
+        "Tăng độ tin cậy giả bằng cách thể hiện như tổ chức/dịch vụ."
+      ],
+      "DauHieuNghiNgo": [
+        "Tên không gắn cá nhân cụ thể, thay đổi liên tục để tránh bị báo cáo."
+      ]
+    }
+  ],
+
+  "NoiDungBaiDangLuaDao": [
+    {
+      "Loai": "Bài đăng trúng thưởng / quà tặng",
+      "DacDiem": [
+        "Tiêu đề phấn khích, hứa tặng quà miễn phí.",
+        "Yêu cầu nhấn link hoặc chuyển phí nhận quà."
+      ],
+      "ThuDoan": [
+        "Thu thập thông tin cá nhân và lừa chuyển tiền phí nhỏ."
+      ],
+      "ViDu": [
+        "Ngân hàng ABC tri ân khách hàng – trúng iPhone 15.",
+        "Chúc mừng! Bạn trúng iPhone 15 Pro — inbox để nhận quà.",
+        "Bạn được chọn nhận quà 5.000.000 VNĐ.",
+        "Mini game: 10 người may mắn được tặng xe máy.",
+        "Quà tặng đặc biệt cho followers mới — chuyển 100k phí vận chuyển để nhận."
+      ]
+    },
+    {
+      "Loai": "Bài đăng giả mạo ngân hàng / tổ chức",
+      "DacDiem": [
+        "Logo giống hệt thương hiệu, nội dung khẩn cấp.",
+        "Luôn kèm link đăng nhập giả."
+      ],
+      "ThuDoan": [
+        "Đánh cắp tài khoản, OTP, hoặc dọa nạt để buộc chuyển tiền."
+      ],
+      "ViDu": [
+        "⚠️ CẢNH BÁO: Tài khoản có giao dịch bất thường: http://vietcombank-login-support.net",
+        "Ngân hàng xxx thông báo: tài khoản bị khóa. Xác minh ngay tại link.",
+        "Cập nhật bảo mật: đổi mật khẩu ngay.",
+        "Gửi CMND và mã OTP để kiểm tra."
+      ]
+    },
+    {
+      "Loai": "Bài đăng từ người nổi tiếng giả mạo",
+      "DacDiem": [
+        "Dùng hình ảnh, clip cắt ghép của nghệ sĩ, KOLs.",
+        "Nội dung tặng quà, chia sẻ bí quyết làm giàu hoặc kêu gọi từ thiện."
+      ],
+      "ThuDoan": [
+        "Dụ tham gia sự kiện ảo, chuyển tiền 'ủng hộ quỹ' hoặc link đầu tư giả."
+      ],
+      "ViDu": [
+        "Sơn Tùng M-TP mở group đầu tư – 5 triệu lãi 50 triệu/tháng."
+      ]
+    },
+    {
+      "Loai": "Bài đăng tuyển dụng ảo / việc nhẹ lương cao",
+      "DacDiem": [
+        "Hứa thu nhập cao, không cần bằng cấp.",
+        "Yêu cầu đóng phí, mua tài liệu, nạp tiền trước."
+      ],
+      "ThuDoan": [
+        "Chiếm đoạt phí đào tạo hoặc dụ vào đa cấp trá hình."
+      ],
+      "ViDu": [
+        "Tuyển 50 bạn nhập liệu online, lương 15–20 triệu/tháng.",
+        "Cần 100 nhân viên nhập liệu, đóng phí 300k để mở tài khoản.",
+        "Tuyển shipper – đặt cọc 500k để nhận đồng phục."
+      ]
+    },
+    {
+      "Loai": "Bài đăng kêu gọi đầu tư / tiền ảo",
+      "DacDiem": [
+        "Quảng cáo cơ hội vàng, cam kết lợi nhuận cao.",
+        "Hình ảnh rút tiền giả, tạo cảm giác uy tín."
+      ],
+      "ThuDoan": [
+        "Dụ người dùng nạp tiền vào sàn/app giả, sau đó khóa tài khoản."
+      ],
+      "ViDu": [
+        "Đầu tư USDT lợi nhuận 30%/ngày.",
+        "Đầu tư 5 triệu thu 50 triệu trong 7 ngày.",
+        "Hệ thống phi tập trung kiếm tiền tự động.",
+        "Mua coin mới sắp lên sàn, gấp 10 lần lợi nhuận."
+      ]
+    },
+    {
+      "Loai": "Bài đăng giật gân / sốc kèm link lạ",
+      "DacDiem": [
+        "Giật tít gây tò mò, sợ hãi, kèm link rút gọn.",
+        "Tag nhiều người để lan truyền nhanh."
+      ],
+      "ThuDoan": [
+        "Lừa click để cài mã độc hoặc đánh cắp cookie."
+      ],
+      "ViDu": [
+        "Bạn có trong danh sách này không? Kiểm tra ngay: https://bit.ly/abcxyz"
+      ]
+    }
+  ],
+
+  "ThongTinBio": {
+    "PhanGioiThieu": [
+      "Ngắn gọn, mơ hồ, chứa câu nói nổi tiếng hoặc nhiều emoji.",
+      "Có link rút gọn dẫn đến trang ngoài."
+    ],
+    "ThongTinCaNhan": [
+      "Không khớp thực tế (tuổi, nghề nghiệp, địa chỉ).",
+      "Thiếu số điện thoại, email thật."
+    ],
+    "MucTieu": [
+      "Tạo cảm giác uy tín, thu hút người dùng nhấp link.",
+      "Giả mạo người khác để lợi dụng danh tiếng."
+    ]
+  },
+
+  "Avatar": [
+    {
+      "Loai": "Ảnh lấy từ Google / mạng xã hội khác",
+      "BieuHien": [
+        "Dùng ảnh người nổi tiếng, idol, ảnh stock.",
+        "Ảnh quá đẹp, chỉnh kỹ, không khớp nội dung tài khoản."
+      ],
+      "DauHieuNghiNgo": [
+        "Tìm kiếm ngược thấy xuất hiện nhiều nơi."
+      ]
+    },
+    {
+      "Loai": "Ảnh mặc định / không rõ mặt",
+      "BieuHien": [
+        "Dùng avatar trống hoặc ảnh mờ ảo.",
+        "Không có ảnh cá nhân nào khác."
+      ],
+      "DauHieuNghiNgo": [
+        "Tài khoản mới tạo, ít tương tác."
+      ]
+    },
+    {
+      "Loai": "Ảnh giả danh tổ chức / thương hiệu",
+      "BieuHien": [
+        "Dùng logo ngân hàng, Shopee, Bộ Công an làm ảnh đại diện.",
+        "Avatar giống chính thức nhưng chất lượng thấp."
+      ],
+      "DauHieuNghiNgo": [
+        "Không có tick xanh, fanpage thật luôn được xác minh."
+      ]
+    },
+    {
+      "Loai": "Ảnh lấy từ AI / ảnh ảo",
+      "BieuHien": [
+        "Gương mặt hoàn hảo nhưng chi tiết bất thường (tai lệch, mắt méo).",
+        "Ảnh giống tạo từ app avatar AI."
+      ],
+      "DauHieuNghiNgo": [
+        "Không tìm được ảnh tương tự bằng tìm kiếm ngược."
+      ]
+    },
+    {
+      "Loai": "Ảnh câu view / gây tò mò",
+      "BieuHien": [
+        "Dùng hình sexy, trẻ em hoặc động vật dễ thương.",
+        "Avatar không liên quan nội dung tài khoản."
+      ],
+      "DauHieuNghiNgo": [
+        "Tài khoản spam link, gửi tin nhắn làm quen hoặc quảng cáo."
+      ]
+    }
+  ]
+}
