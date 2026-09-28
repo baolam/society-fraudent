@@ -128,7 +128,7 @@ society-fraudent/
 
 ```bash
 # Clone dự án
-git clone https://github.com/your-username/society-fraudent.git
+git clone https://github.com/baolam/society-fraudent.git
 cd society-fraudent
 
 # Tạo môi trường ảo (Khuyên dùng)
